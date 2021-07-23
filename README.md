@@ -9,18 +9,18 @@ The purpose of this instruction manual is to make and assemble a custom designed
 ## Background
 These racks can be easily made either in a makerspace inhouse or outsources to be assembled after being shipped to the IPD. There are few materials and background concepts that you need to efficiently produce high quality racks.
 ### Required Items for Inhouse Manufacturing
-• Computer Controlled Cutting Method (such as Laser Cutter or CNC router)
-• Sheets of 0.25 in Thick Cast Acrylic
-• Included Files (Technical Drawings, DXFs, and Vectors)
-• Autodesk Inventor 2020
-• Autodesk Project Files (IPTs and IAMs)
-• (Optional) UV Printer
-• (Optional) Plastic\Rubber Mallet
-• (Optional) Acrylic Cement
+- Computer Controlled Cutting Method (such as Laser Cutter or CNC router)
+- Sheets of 0.25 in Thick Cast Acrylic
+- Included Files (Technical Drawings, DXFs, and Vectors)
+- Autodesk Inventor 2020
+- Autodesk Project Files (IPTs and IAMs)
+- (Optional) UV Printer
+- (Optional) Plastic\Rubber Mallet
+- (Optional) Acrylic Cement
 ### Required Items for Outsourced Manufacturing
-• Included Files (Technical Drawings, DXFs, and Vectors)
-• (Optional) Plastic\Rubber Mallet
-• (Optional) Acrylic Cement
+- Included Files (Technical Drawings, DXFs, and Vectors)
+- (Optional) Plastic\Rubber Mallet
+- (Optional) Acrylic Cement
 
 ## Required Concepts
 To manufacture these racks in house, you must be familiar and have access to a makerspace with a cutting method. You must also understand how to use Autodesk Inventor 2020 and operate the cutting method.
