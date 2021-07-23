@@ -3,7 +3,8 @@ These racks were designed for the Institute for Protein Design to hold gravity c
 
 ## How to Make and Assemble the Custom Institute of Protein Design (IPD) Chromatography Rack System
 Prepared by Eugene Seubert, Student Research Assistant - Institute for Protein Design, University of Washington – Seattle Last Revised October 2020
-##Objective
+
+## Objective
 The purpose of this instruction manual is to make and assemble a custom designed acrylic rack to hold chromatography columns. Existing products are expensive and incompatible with the commonly used Nalgene wire racks during Immobilized Metal Affinity Chromatography (IMAC). Student assistants at the Institute for Protein Design (IPD) who have experience in engineering or rapid prototyping can use this manual to make these racks at any time. Plan ahead to order materials and allocate enough time to cut parts if made inhouse. These instructions only give basic procedures on how to manufacturer and assemble the racks, they do not provide information about how to use or repair them.
 
 ## Background
